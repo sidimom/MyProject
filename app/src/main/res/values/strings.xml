@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyProject</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="menu">Menu</string>
+    <string name="saved_JSON">saved_JSON</string>
+    <string name="mistake_401">401</string>
+</resources>
